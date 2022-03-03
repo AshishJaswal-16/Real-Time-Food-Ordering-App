@@ -1,0 +1,65 @@
+[{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "Summer Salad",
+    "image": "plate-1.png",
+    "price": "250",
+    "size": "medium"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name": "Russian Salad",
+    "image": "plate-2.png",
+    "price": "300",
+    "size": "small"
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea4"
+    },
+    "name": "Greek Salad",
+    "image": "plate-3.png",
+    "price": "200",
+    "size": "small"
+  },{
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name": "Cottage Pie",
+    "image": "plate-1.png",
+    "price": "500",
+    "size": "large"
+  },{
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name": "Americana Salad",
+    "image": "plate-2.png",
+    "price": "350",
+    "size": "medium"
+  },{
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bea7"
+    },
+    "name": "Green Salad",
+    "image": "plate-3.png",
+    "price": "200",
+    "size": "small"
+  },{
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bea8"
+    },
+    "name": "Vegies Salad",
+    "image": "plate-1.png",
+    "price": "600",
+    "size": "large"
+  },{ 
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Healthy Salad",
+    "image": "plate-2.png",
+    "price": "500",
+    "size": "medium"
+  }]
